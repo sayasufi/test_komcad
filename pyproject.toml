@@ -1,0 +1,11 @@
+[nitpick]
+style = [
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/darglint.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/all.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/editorconfig.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/file-structure.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/flake8.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/isort.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/styleguide.toml",
+    "file:///Users/ryabov.sa/PycharmProjects/test_komcad/nitpick/pytest.toml"
+]
